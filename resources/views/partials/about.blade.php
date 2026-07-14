@@ -1,10 +1,14 @@
 <section id="about" class="about">
 
     <div class="about-image">
-        <div class="about-circle">
-            👨‍💻
+        <div class="about-card">
+            <div class="profile-icon">
+                👨‍💻
+            </div>
+            <span>Web Developer</span>
         </div>
     </div>
+
 
     <div class="about-content">
 
@@ -13,31 +17,32 @@
         <h2>Siapa Saya?</h2>
 
         <p>
-            Halo! Saya Abil Ibnu Sofian, mahasiswa Teknik Informatika
-            yang memiliki minat dalam pengembangan website modern,
-            backend development menggunakan Laravel,
-            serta UI yang bersih dan nyaman digunakan.
+            Saya Abil Ibnu Sofian, mahasiswa Teknik Informatika yang
+            memiliki ketertarikan dalam pengembangan website modern,
+            khususnya backend development menggunakan Laravel
+            serta pembuatan antarmuka yang sederhana dan nyaman digunakan.
 
-            Saya senang mempelajari teknologi baru
-            dan terus meningkatkan kemampuan saya
-            melalui project maupun bootcamp.
+            Saya terus belajar teknologi baru melalui project,
+            bootcamp, dan pengalaman langsung untuk meningkatkan
+            kemampuan sebagai seorang developer.
         </p>
+
 
         <div class="about-info">
 
             <div class="info-card">
-                <h3>2+</h3>
+                <h3>3+</h3>
                 <span>Project</span>
             </div>
 
             <div class="info-card">
                 <h3>10+</h3>
-                <span>Skills</span>
+                <span>Technology</span>
             </div>
 
             <div class="info-card">
                 <h3>∞</h3>
-                <span>Learning</span>
+                <span>Growth</span>
             </div>
 
         </div>

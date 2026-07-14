@@ -1,4 +1,4 @@
-<section class="hero">
+<section id="home" class="hero">
 
     <div class="hero-left">
 
@@ -34,31 +34,13 @@
 
     </div>
 
+
     <div class="hero-right">
 
         <div class="profile-circle">
-
             AI
-
         </div>
 
     </div>
-
-</section>
-@extends('layouts.app')
-
-@section('content')
-
-<!-- HERO -->
-<section id="home" class="hero">
-
-    <!-- Isi Hero -->
-
-</section>
-
-<!-- ABOUT -->
-<section id="about" class="about">
-
-    <!-- Isi About -->
 
 </section>

@@ -10,4 +10,15 @@
 
 @include('partials.skills')
 
+@include('partials.project')
+
+@include('partials.education')
+
+@include('partials.certificates')
+
+@include('partials.contact')
+
+@include('partials.footer')
+
+
 @endsection
