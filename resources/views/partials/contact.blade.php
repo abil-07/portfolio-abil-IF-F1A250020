@@ -24,21 +24,26 @@
 
 
             <div class="contact-item">
-                📧
-                <span>Email: abil@example.com</span>
+                <i class="bi bi-envelope-fill"></i>
+                <span>Email: abilibnusofian@gmail.com</span>
             </div>
 
 
             <div class="contact-item">
-                📍
-                <span>Bandung, Indonesia</span>
+                <i class="bi bi-geo-alt-fill"></i>
+                <span>Bandung, Jawa Barat, Indonesia</span>
             </div>
 
 
             <div class="contact-item">
-                💻
-                <span>GitHub: github.com/abil-07</span>
-            </div>
+                <i class="bi bi-github"></i>
+
+                <a href="https://github.com/abil-07"
+                target="_blank">
+                github.com/abil-07
+        </a>
+
+                </div>
 
 
         </div>

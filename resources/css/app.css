@@ -969,3 +969,113 @@ section {
     font-size:14px;
 
 }
+/* =========================
+   Responsive Mobile
+========================= */
+
+@media (max-width: 768px) {
+
+    .hero,
+    .about,
+    .contact-container{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .hero,
+    .about,
+    .skills,
+    .projects,
+    .education,
+    .certificates,
+    .contact,
+    .footer{
+
+        padding:80px 25px;
+
+    }
+
+    .hero-left{
+
+        width:100%;
+
+    }
+
+    .hero h1{
+
+        font-size:42px;
+        line-height:55px;
+
+    }
+
+    .hero h2{
+
+        font-size:22px;
+
+    }
+
+    .desc{
+
+        width:100%;
+
+    }
+
+    .hero-button{
+
+        justify-content:center;
+        flex-wrap:wrap;
+
+    }
+
+    .profile-circle{
+
+        width:220px;
+        height:220px;
+        margin-top:40px;
+
+    }
+
+    .about-info{
+
+        justify-content:center;
+        flex-wrap:wrap;
+
+    }
+
+    .timeline::before{
+
+        display:none;
+
+    }
+
+    .timeline-dot{
+
+        display:none;
+
+    }
+
+    .timeline-card{
+
+        width:100%;
+
+    }
+
+    .contact-form{
+
+        margin-top:30px;
+
+    }
+
+}
+.contact-item a{
+
+    color:#38bdf8;
+    text-decoration:none;
+
+}
+
+.contact-item a:hover{
+
+    text-decoration:underline;
+
+}
