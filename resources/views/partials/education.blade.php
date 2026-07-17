@@ -20,10 +20,15 @@
 
                 <span>2025 - Sekarang</span>
 
-                <h3>Universitas Al Ghifari</h3>
+                <h3><h3>
+    <i class="bi bi-mortarboard-fill"></i>
+    Universitas Al Ghifari
+</h3></h3>
 
                 <p>
-                    Teknik Informatika
+                    Mahasiswa aktif Program Studi Teknik Informatika
+berfokus pada Web Development,
+Backend Development, dan Database.
                 </p>
 
             </div>
@@ -40,13 +45,19 @@
 
                 <span>2022 - 2025</span>
 
-                <h3>SMK WIDYA DIRGANTARA</h3>
+                <h3><h3>
+                <i class="bi bi-pc-display"></i>
+                SMK Widya Dirgantara
+            </h3></h3>
 
                 <p>
-                    Jurusan Teknik Komputer dan Jaringan (TKJ).
-                    Memiliki dasar dalam jaringan komputer,
-                    troubleshooting perangkat,
-                    sistem operasi, dan infrastruktur teknologi.
+                   SMK Widya Dirgantara
+
+                Teknik Komputer dan Jaringan (TKJ)
+
+                • Dasar Networking
+                • Hardware Troubleshooting
+                • Instalasi Sistem Operasi
                 </p>
 
             </div>

@@ -2,29 +2,32 @@
 
     <div class="footer-content">
 
-        <h3>
-            Abil<span>.</span>
-        </h3>
+        <h3>Abil Ibnu Sofian</h3>
 
         <p>
-            Full Stack Developer yang terus belajar
-            dan membangun project web modern.
+            Full Stack Developer | Teknik Informatika
         </p>
 
+        <div class="footer-social">
 
-        <div class="social-links">
+            <a href="https://github.com/abil-07" target="_blank">
+                <i class="bi bi-github"></i>
+            </a>
 
-            <a href="#">GitHub</a>
+            <a href="mailto:emailkamu@gmail.com">
+                <i class="bi bi-envelope-fill"></i>
+            </a>
 
-            <a href="#">LinkedIn</a>
-
-            <a href="#">Instagram</a>
+            <a href="https://wa.me/628xxxxxxxxxx" target="_blank">
+                <i class="bi bi-whatsapp"></i>
+            </a>
 
         </div>
 
+        <hr>
 
         <p class="copyright">
-            © 2026 Abil Ibnu Sofian. All Rights Reserved.
+            © {{ date('Y') }} Abil Ibnu Sofian. All Rights Reserved.
         </p>
 
     </div>

@@ -1,71 +1,54 @@
 <section id="contact" class="contact">
 
     <div class="section-header">
-
         <span class="section-title">CONTACT</span>
-
         <h2>Hubungi Saya</h2>
-
     </div>
-
 
     <div class="contact-container">
 
+        <div class="contact-card">
 
-        <div class="contact-info">
+            <i class="bi bi-envelope-fill"></i>
 
-            <h3>Mari Terhubung</h3>
+            <h4>Email</h4>
 
-            <p>
-                Jika ingin berdiskusi mengenai project,
-                kolaborasi, atau peluang kerja,
-                silakan hubungi saya.
-            </p>
+            <p>abilibnusofian@gmail.com</p>
 
+        </div>
 
-            <div class="contact-item">
-                <i class="bi bi-envelope-fill"></i>
-                <span>Email: abilibnusofian@gmail.com</span>
-            </div>
+        <div class="contact-card">
 
+            <i class="bi bi-whatsapp"></i>
 
-            <div class="contact-item">
-                <i class="bi bi-geo-alt-fill"></i>
-                <span>Bandung, Jawa Barat, Indonesia</span>
-            </div>
+            <h4>WhatsApp</h4>
 
+            <p>083129666412</p>
 
-            <div class="contact-item">
-                <i class="bi bi-github"></i>
+        </div>
 
-                <a href="https://github.com/abil-07"
-                target="_blank">
+        <div class="contact-card">
+
+            <i class="bi bi-github"></i>
+
+            <h4>GitHub</h4>
+
+            <a href="https://github.com/abil-07" target="_blank">
                 github.com/abil-07
-        </a>
-
-                </div>
-
+            </a>
 
         </div>
 
+        <div class="contact-card">
 
+            <i class="bi bi-geo-alt-fill"></i>
 
-        <div class="contact-form">
+            <h4>Lokasi</h4>
 
-            <input type="text" placeholder="Nama">
-
-            <input type="email" placeholder="Email">
-
-            <textarea placeholder="Pesan"></textarea>
-
-            <button>
-                Kirim Pesan
-            </button>
+            <p>Bandung, Indonesia</p>
 
         </div>
-
 
     </div>
-
 
 </section>

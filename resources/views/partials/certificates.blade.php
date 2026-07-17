@@ -1,38 +1,31 @@
 <section id="certificates" class="certificates">
 
     <div class="section-header">
-
         <span class="section-title">CERTIFICATES</span>
-
-        <h2>Sertifikat & Pelatihan</h2>
-
+        <h2>Sertifikat Saya</h2>
     </div>
-
 
     <div class="certificate-grid">
-        <div class="certificate-card">
 
-    <div class="certificate-icon">
-        <i class="bi bi-award-fill"></i>
+       <div class="certificate-card">
+
+    <a href="{{ asset('image/certificates/Abil Ibnu Sofian.png') }}"
+       target="_blank">
+
+        <img src="{{ asset('image/certificates/Abil Ibnu Sofian.png') }}"
+             alt="Laravel Bootcamp">
+
+    </a>
+
+    <div class="certificate-content">
+
+        <h3>Laravel & Database Fundamental Bootcamp</h3>
+
+        <p>HIMASI 2026</p>
+
     </div>
 
-    <h3>HIMASI Bootcamp Laravel & Database Fundamental 2026</h3>
-
-    <span>Himpunan Mahasiswa Sistem Informasi (HIMASI) • 2026</span>
-
-    <p>
-        <p>
-            Berhasil menyelesaikan HIMASI Bootcamp Laravel & Database
-            Fundamental 2026 yang membahas Laravel, Database,
-            konsep MVC, Git & GitHub, serta pengembangan
-            aplikasi web berbasis project.
-</p>
-    </p>
-
 </div>
-
-        </div>
-
 
     </div>
 

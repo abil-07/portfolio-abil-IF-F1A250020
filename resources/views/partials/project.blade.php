@@ -12,15 +12,16 @@
         <div class="project-card">
 
             <div class="project-image">
-                🚀
+            <img src="{{ asset('image/project/portofolio.png') }}"
+            alt="Portofolio Website">
             </div>
 
             <div class="project-content">
 
-                <h3>Portfolio Website</h3>
+                <h3>Portofolio Website</h3>
 
                 <p>
-                    Website portfolio pribadi dengan desain modern
+                    Website portofolio pribadi dengan desain modern
                     menggunakan Laravel, Blade, Bootstrap,
                     dan CSS custom dengan tema dark neon.
                 </p>
@@ -35,8 +36,13 @@
                 </div>
 
 
-                <a href="#" class="project-btn">
-                    View Project
+                <a href="https://github.com/abil-07/portofolio-abil-IF-F1A250020"
+                target="_blank"
+                class="project-btn">
+
+                <i class="bi bi-github"></i>
+                GitHub
+
                 </a>
 
             </div>
@@ -45,70 +51,65 @@
 
 
 
-        <div class="project-card">
+      <div class="project-card">
 
-            <div class="project-image">
-                💻
-            </div>
+    <div class="project-image">
+        🚧
+    </div>
 
-            <div class="project-content">
+    <div class="project-content">
 
-                <h3>Web Application</h3>
+        <h3>Coming Soon</h3>
 
-                <p>
-                    Project pengembangan aplikasi web
-                    dengan konsep database dan backend.
-                </p>
+        <p>
+            Saat ini saya sedang mengembangkan project baru
+            yang akan segera ditambahkan ke portfolio ini.
+        </p>
 
-
-                <div class="tech">
-
-                    <span>PHP</span>
-                    <span>MySQL</span>
-                    <span>Laravel</span>
-
-                </div>
-
-
-                <a href="#" class="project-btn">
-                    View Project
-                </a>
-
-            </div>
-
+        <div class="tech">
+            <span>Laravel</span>
+            <span>PHP</span>
+            <span>MySQL</span>
         </div>
 
+        <a href="#" class="project-btn">
+            Coming Soon
+        </a>
+
+    </div>
+
+</div>
+
 
 
         <div class="project-card">
 
-            <div class="project-image">
-                🎨
-            </div>
+    <div class="project-image">
+        ⏳
+    </div>
 
-            <div class="project-content">
+    <div class="project-content">
 
-                <h3>UI Design</h3>
+        <h3>Coming Soon</h3>
 
-                <p>
-                    Eksplorasi desain interface modern
-                    dengan fokus pada tampilan yang bersih
-                    dan nyaman digunakan.
-                </p>
+        <p>
+            Project berikutnya masih dalam proses
+            pengembangan dan akan segera dipublikasikan.
+        </p>
 
+        <div class="tech">
+            <span>HTML</span>
+            <span>CSS</span>
+            <span>JavaScript</span>
+        </div>
 
-                <div class="tech">
+        <a href="#" class="project-btn">
+            Coming Soon
+        </a>
 
-                    <span>Figma</span>
-                    <span>UI/UX</span>
+    </div>
 
-                </div>
-
-
-                <a href="#" class="project-btn">
-                    View Project
-                </a>
-
+</div>
             </div>
 
         </div>
