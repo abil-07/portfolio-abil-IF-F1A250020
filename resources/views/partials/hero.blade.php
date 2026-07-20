@@ -21,14 +21,20 @@
         </p>
 
         <div class="hero-button">
+<a href="https://wa.me/6289604243097?text=Halo%20Abil,%20saya%20tertarik%20dengan%20portfolio%20Anda"
+class="btn btn-primary"
+target="_blank">
+    Hire Me
+</a>
 
-            <a href="#" class="btn-primary">
-                Hire Me
-            </a>
+            <a href="{{ asset('cv/Abil Ibnu Sofian-CV.pdf') }}"
+   class="btn-secondary"
+   download>
 
-            <a href="#" class="btn-secondary">
-                Download CV
-            </a>
+    <i class="bi bi-download"></i>
+    Download CV
+
+</a> 
 
         </div>
 
@@ -38,7 +44,7 @@
     <div class="hero-right" data-aos="fade-left" data-aos-delay="200">
 
         <div class="profile-circle">
-            AI
+        <img src="{{ asset('image/profile.png') }}" alt="Foto Profile Abil">
         </div>
 
     </div>

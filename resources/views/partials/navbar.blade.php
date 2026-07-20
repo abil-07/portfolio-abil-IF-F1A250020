@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-transparent py-3">
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top py-3">
     <div class="container">
 
         <a class="navbar-brand fw-bold text-info" href="#home">

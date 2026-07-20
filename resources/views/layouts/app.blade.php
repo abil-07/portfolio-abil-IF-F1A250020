@@ -21,6 +21,7 @@
     <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
 
     @vite(['resources/css/app.css','resources/js/app.js'])
+    <link rel="icon" type="image/png" href="{{ asset('favicon.png?v=2') }}">
 
 </head>
 
@@ -37,7 +38,7 @@
     <script>
         AOS.init({
                duration: 1000,
-              once: true,
+              once: true,   
     easing: 'ease-in-out',
     offset: 100,
         });
