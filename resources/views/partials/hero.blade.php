@@ -1,6 +1,6 @@
 <section id="home" class="hero">
 
-    <div class="hero-left">
+    <div class="hero-left" data-aos="fade-right">
 
         <p class="small-title">
             👋 Halo, saya
@@ -35,7 +35,7 @@
     </div>
 
 
-    <div class="hero-right">
+    <div class="hero-right" data-aos="fade-left" data-aos-delay="200">
 
         <div class="profile-circle">
             AI

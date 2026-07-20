@@ -1,13 +1,14 @@
 <section id="contact" class="contact">
 
-    <div class="section-header">
+    <div class="section-header" data-aos="fade-up">
         <span class="section-title">CONTACT</span>
         <h2>Hubungi Saya</h2>
     </div>
 
     <div class="contact-container">
 
-        <div class="contact-card">
+        <div class="contact-card"
+             data-aos="fade-up">
 
             <i class="bi bi-envelope-fill"></i>
 
@@ -17,7 +18,9 @@
 
         </div>
 
-        <div class="contact-card">
+        <div class="contact-card"
+             data-aos="fade-up"
+             data-aos-delay="100">
 
             <i class="bi bi-whatsapp"></i>
 
@@ -27,7 +30,9 @@
 
         </div>
 
-        <div class="contact-card">
+        <div class="contact-card"
+             data-aos="fade-up"
+             data-aos-delay="200">
 
             <i class="bi bi-github"></i>
 
@@ -39,7 +44,9 @@
 
         </div>
 
-        <div class="contact-card">
+        <div class="contact-card"
+             data-aos="fade-up"
+             data-aos-delay="300">
 
             <i class="bi bi-geo-alt-fill"></i>
 

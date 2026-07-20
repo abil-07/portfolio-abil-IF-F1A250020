@@ -1,19 +1,18 @@
 <section id="projects" class="projects">
 
-    <div class="section-header">
+    <div class="section-header" data-aos="fade-up">
         <span class="section-title">PROJECTS</span>
         <h2>Project Saya</h2>
     </div>
 
-
     <div class="project-grid">
 
-
-        <div class="project-card">
+        <!-- Project 1 -->
+        <div class="project-card" data-aos="fade-up">
 
             <div class="project-image">
-            <img src="{{ asset('image/project/portofolio.png') }}"
-            alt="Portofolio Website">
+                <img src="{{ asset('image/project/portofolio.png') }}"
+                     alt="Portofolio Website">
             </div>
 
             <div class="project-content">
@@ -26,22 +25,18 @@
                     dan CSS custom dengan tema dark neon.
                 </p>
 
-
                 <div class="tech">
-
                     <span>Laravel</span>
                     <span>Bootstrap</span>
                     <span>CSS</span>
-
                 </div>
 
-
                 <a href="https://github.com/abil-07/portofolio-abil-IF-F1A250020"
-                target="_blank"
-                class="project-btn">
+                   target="_blank"
+                   class="project-btn">
 
-                <i class="bi bi-github"></i>
-                GitHub
+                    <i class="bi bi-github"></i>
+                    GitHub
 
                 </a>
 
@@ -49,71 +44,69 @@
 
         </div>
 
+        <!-- Project 2 -->
+        <div class="project-card"
+             data-aos="fade-up"
+             data-aos-delay="150">
 
+            <div class="project-image">
+                🚧
+            </div>
 
-      <div class="project-card">
+            <div class="project-content">
 
-    <div class="project-image">
-        🚧
-    </div>
+                <h3>Coming Soon</h3>
 
-    <div class="project-content">
+                <p>
+                    Saat ini saya sedang mengembangkan project baru
+                    yang akan segera ditambahkan ke portfolio ini.
+                </p>
 
-        <h3>Coming Soon</h3>
+                <div class="tech">
+                    <span>Laravel</span>
+                    <span>PHP</span>
+                    <span>MySQL</span>
+                </div>
 
-        <p>
-            Saat ini saya sedang mengembangkan project baru
-            yang akan segera ditambahkan ke portfolio ini.
-        </p>
+                <a href="#" class="project-btn">
+                    Coming Soon
+                </a>
 
-        <div class="tech">
-            <span>Laravel</span>
-            <span>PHP</span>
-            <span>MySQL</span>
-        </div>
-
-        <a href="#" class="project-btn">
-            Coming Soon
-        </a>
-
-    </div>
-
-</div>
-
-
-
-        <div class="project-card">
-
-    <div class="project-image">
-        ⏳
-    </div>
-
-    <div class="project-content">
-
-        <h3>Coming Soon</h3>
-
-        <p>
-            Project berikutnya masih dalam proses
-            pengembangan dan akan segera dipublikasikan.
-        </p>
-
-        <div class="tech">
-            <span>HTML</span>
-            <span>CSS</span>
-            <span>JavaScript</span>
-        </div>
-
-        <a href="#" class="project-btn">
-            Coming Soon
-        </a>
-
-    </div>
-
-</div>
             </div>
 
         </div>
 
+        <!-- Project 3 -->
+        <div class="project-card"
+             data-aos="fade-up"
+             data-aos-delay="300">
+
+            <div class="project-image">
+                ⏳
+            </div>
+
+            <div class="project-content">
+
+                <h3>Coming Soon</h3>
+
+                <p>
+                    Project berikutnya masih dalam proses
+                    pengembangan dan akan segera dipublikasikan.
+                </p>
+
+                <div class="tech">
+                    <span>HTML</span>
+                    <span>CSS</span>
+                    <span>JavaScript</span>
+                </div>
+
+                <a href="#" class="project-btn">
+                    Coming Soon
+                </a>
+
+            </div>
+
+        </div>
 
     </div>
 
