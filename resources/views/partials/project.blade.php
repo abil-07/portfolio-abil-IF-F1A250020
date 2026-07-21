@@ -31,7 +31,7 @@
                     <span>CSS</span>
                 </div>
 
-                <a href="https://github.com/abil-07/portofolio-abil-IF-F1A250020"
+                <a href="https://github.com/abil-07/portfolio-abil-IF-F1A250020.git"
                    target="_blank"
                    class="project-btn">
 
