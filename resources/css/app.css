@@ -1663,3 +1663,22 @@ section{
     }
 
 }
+.project-image {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+@media (max-width: 991px){
+
+    .navbar .container{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .navbar-toggler{
+        margin-left: auto;
+    }
+
+}

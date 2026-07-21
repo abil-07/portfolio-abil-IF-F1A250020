@@ -6,17 +6,17 @@
         </a>
 
         <button class="navbar-toggler"
-                type="button"
-                data-bs-toggle="collapse"
-                data-bs-target="#navbarNav">
-
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarNav"
+        style="margin-right:0;">
             <span class="navbar-toggler-icon"></span>
 
         </button>
 
         <div class="collapse navbar-collapse" id="navbarNav">
 
-            <ul class="navbar-nav ms-auto">
+            <ul class="navbar-nav ms-auto text-center"> 
 
                 <li class="nav-item">
                     <a class="nav-link active" href="#home">Home</a>
@@ -45,10 +45,21 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#contact">Contact</a>
                 </li>
+                                {{-- GitHub --}}
+                <li class="nav-item ms-lg-3">
+                    <a class="nav-link"
+                       href="https://github.com/abil-07"
+                       target="_blank"
+                       title="GitHub Abil">
+
+                        <i class="bi bi-github fs-5"></i>
+
+                    </a>
+                </li>
 
             </ul>
 
         </div>
 
     </div>
-</nav>  
+</nav>
